@@ -120,7 +120,7 @@
     <string name="export_blocked_numbers">Gesperrte Nummern exportieren</string>
     <string name="import_blocked_numbers">Gesperrte Nummern importieren</string>
     <string name="messages_wipe_error_title">Fehler beim Löschen von Nachrichten</string>
-    <string name="json_parse_error">Fehler beim Analysieren der JSON-Datei</string>
+    <string name="json_parse_error">Fehler beim Analysieren der JSON-Datei. Bitte stelle sicher, dass es sich bei der bereitgestellten Datei um eine JSON-Datei im korrekten Format handelt.</string>
     <string name="missing_messages_ndjson_error">Kann „messages.ndjson“ nicht finden. Bitte stelle sicher, dass die bereitgestellte Datei eine ZIP-Datei im richtigen Format ist.</string>
     <string name="missing_blocked_numbers_ndjson_error">Kann „blocked_numbers.ndjson” nicht finden. Bitte stelle sicher, dass die bereitgestellte Datei eine ZIP-Datei im richtigen Format ist.</string>
     <string name="pref_save_logcat_name">Logcat speichern</string>
@@ -134,4 +134,5 @@
     <string name="sms_read_permission_required">Um Nachrichten zu zählen, ist die Berechtigung zum Lesen von SMS erforderlich.</string>
     <string name="counting_messages">Nachrichten werden gezählt…</string>
     <string name="count_messages">Nachrichten zählen</string>
+    <string name="encryption_invalid_format">Ausgewählte Datei ist keine SMS-I/E-verschlüsselte Datei</string>
 </resources>
